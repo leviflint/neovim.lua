@@ -1,0 +1,12 @@
+[12:45:32 2023-09-24] FETCHING Version 2.23.2
+[12:45:32 2023-09-24] CREATING /home/levi/.spicetify
+[12:45:32 2023-09-24] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.23.2/spicetify-2.23.2-linux-amd64.tar.gz
+[12:45:33 2023-09-24] EXTRACTING /home/levi/.spicetify/spicetify.tar.gz
+[12:45:33 2023-09-24] SETTING EXECUTABLE PERMISSIONS TO /home/levi/.spicetify/spicetify
+[12:45:33 2023-09-24] REMOVING /home/levi/.spicetify/spicetify.tar.gz
+[12:45:33 2023-09-24] APPENDING /home/levi/.spicetify to PATH in /home/levi/.bashrc
+[12:45:33 2023-09-24] Restart your shell to have spicetify in your PATH.
+[12:45:33 2023-09-24] APPENDING /home/levi/.spicetify to PATH in /home/levi/.bash_profile
+[12:45:33 2023-09-24] Restart your shell to have spicetify in your PATH.
+[12:45:33 2023-09-24] spicetify v2.23.2 was installed successfully to /home/levi/.spicetify
+[12:45:33 2023-09-24] Run 'spicetify --help' to get started
